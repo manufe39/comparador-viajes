@@ -1,1 +1,4 @@
-fastapi`nuvicorn`nlangchain`nopenai 
+fastapi
+uvicorn
+langchain
+openai
